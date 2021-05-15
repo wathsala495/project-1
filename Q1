@@ -1,0 +1,5 @@
+object Q1_19001843 extends App{
+
+  def convert(X:Double)=X*1.8+32;
+  println(convert(35));
+  }
